@@ -8,4 +8,4 @@ Save the following code as a bookmarklet:
 ```
 
 ## Why?
-Because some websites just don't know how to respect your eyeballs and instead pepper you with ginourmous fucking banners.
+Because some websites just don't know how to respect your eyeballs and instead pepper you with ginormous fucking banners.
